@@ -1,0 +1,13 @@
+fr:
+  app:
+    blog_1:
+      title: Comment créer une page d'accueil pour les organisations à but non lucratif.
+      description: Les pages d'atterrissage font partie des pièces les plus importantes du puzzle numérique.
+      features:
+      - Page d'inscription des volontaires
+      - Page des dons
+      - page d'inscription à la newsletter
+      tips:
+      - Rendez-le facile à lire
+      - Utilisez des images pour raconter votre histoire
+      - Test et mise à jour avant envoi

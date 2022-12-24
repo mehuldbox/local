@@ -1,0 +1,13 @@
+es:
+  app:
+    blog_1:
+      title: Cómo crear una página de destino sin ánimo de lucro.
+      description: Las páginas de destino son una de las piezas más importantes del rompecabezas digital.
+      features:
+      - Página de inscripción de voluntarios
+      - Página de donativos
+      - página de suscripción al boletín
+      tips:
+      - Facilitar la lectura
+      - Utiliza imágenes para contar tu historia
+      - Probar y actualizar antes de enviar
